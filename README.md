@@ -1,5 +1,8 @@
-# Bootcamp Exercício #
+# Bootcamp Exercício - Gitflow
 
-# Branch develop #
+## Branches
+- `main` - produção
+- `develop` - desenvolvimento
+- `feature/login-fake` - feature
 
-# Testando sistema para enviar para a produção #
+Fluxo: feature -> develop -> main (via release)
